@@ -8,6 +8,8 @@ import android.widget.ImageView;
 public class WelcomeActivity extends Activity {
     private Button button;
     ImageView imageView;
+
+    Button btn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
